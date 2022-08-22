@@ -121,7 +121,7 @@ class _HomePageState extends State<HomePage> {
                   });
                 },
                 label: 'Reset count',
-                color: Colors.red, // ternary operator
+                color: Colors.red,
               ),
           ],
         ),
